@@ -19,4 +19,11 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Lectures/blob/master/mik(21).pdf" style="text-decoration:none;">Excerpt from 'THE FUTURE OF THE MIND' </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Lectures/blob/master/mik(22).pdf" style="text-decoration:none;">The Universe in a Nutshell </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Lectures/blob/master/mik(21).pdf" style="text-decoration:none;">The Future of Humanity </a></b></li>
+
+
+
 </ul>

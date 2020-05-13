@@ -1,6 +1,68 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Michio Kaku</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="Michio_Kaku_Presentation.jpg"><img src="Michio_Kaku_Presentation.jpg" srcset="Michio_Kaku_Presentation.jpg" alt="Michio Kaku Presentation.jpg" width="220" height="186" data-file-width="4075" data-file-height="3452" /></a>
+<div>Kaku at&nbsp;<a title="Campus Party" href="https://en.wikipedia.org/wiki/Campus_Party#2012">Campus Party Brasil</a>&nbsp;in 2012</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>January 24, 1947<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;73)</span><br />
+<div class="birthplace"><a title="San Jose, California" href="https://en.wikipedia.org/wiki/San_Jose,_California">San Jose, California</a>, U.S.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">American</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a title="Harvard University" href="https://en.wikipedia.org/wiki/Harvard_University">Harvard University</a>&nbsp;(B.Sc., 1968)<br /><a title="University of California, Berkeley" href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">University of California, Berkeley</a>&nbsp;(Ph.D., 1972)</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td><a title="String field theory" href="https://en.wikipedia.org/wiki/String_field_theory">String field theory</a><br /><em><a title="Physics of the Impossible" href="https://en.wikipedia.org/wiki/Physics_of_the_Impossible">Physics of the Impossible</a></em><br /><em><a title="Physics of the Future" href="https://en.wikipedia.org/wiki/Physics_of_the_Future">Physics of the Future</a></em><br /><em><a title="The Future of the Mind" href="https://en.wikipedia.org/wiki/The_Future_of_the_Mind">The Future of the Mind</a></em></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Shizue Kaku</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>2</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a title="Klopsteg Memorial Award" href="https://en.wikipedia.org/wiki/Klopsteg_Memorial_Award">Klopsteg Memorial Award</a>&nbsp;(2008)</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">Theoretical physics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="City College of New York" href="https://en.wikipedia.org/wiki/City_College_of_New_York">City College of New York</a><br /><a title="New York University" href="https://en.wikipedia.org/wiki/New_York_University">New York University</a><br /><a title="Institute for Advanced Study" href="https://en.wikipedia.org/wiki/Institute_for_Advanced_Study">Institute for Advanced Study</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Stanley Mandelstam" href="https://en.wikipedia.org/wiki/Stanley_Mandelstam">Stanley Mandelstam</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a class="external text" href="http://mkaku.org/" rel="nofollow">MKaku.org</a></td>
+</tr>
+</tbody>
+</table>
 
-
-
+</br>
 
 
 
